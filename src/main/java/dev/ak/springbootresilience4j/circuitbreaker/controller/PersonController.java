@@ -1,6 +1,6 @@
-package dev.ak.springbootresilience4j.controller;
+package dev.ak.springbootresilience4j.circuitbreaker.controller;
 
-import dev.ak.springbootresilience4j.model.Person;
+import dev.ak.springbootresilience4j.circuitbreaker.model.Person;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

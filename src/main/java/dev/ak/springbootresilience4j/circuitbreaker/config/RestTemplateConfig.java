@@ -1,4 +1,4 @@
-package dev.ak.springbootresilience4j.config;
+package dev.ak.springbootresilience4j.circuitbreaker.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
